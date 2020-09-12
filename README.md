@@ -1,3 +1,6 @@
+This project is frontend clone of Netflix, using React and deployed on AWS. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
